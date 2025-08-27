@@ -1,6 +1,6 @@
 ### 👋Hi friends. Welcome to my Github Treasure! 📚
 
-I am Nazariy and I am found of data and the stories it can tell. I'm a Junior Data Analyst for whom analytics is more than just a profession — it's a mindset and a path of continuous growth. My goal is not just to work with numbers, but to find meaning and value in them to support informed decision-making.
+I am Nazariy and I am found of data and the stories it can tell 📄. I'm a Junior Data Analyst for whom analytics is more than just a profession — it's a mindset and a path of continuous growth🌱. My goal is not just to work with numbers, but to find meaning and value in them to support informed decision-making 🎯.
 <!--
 **NazariyDA/NazariyDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
